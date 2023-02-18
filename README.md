@@ -4,7 +4,7 @@
 
 ## Notes on Output: GPTs are spectacular at generating realistic text. The jig is up quite quickly though, when it becomes clear that GPT output contains limited internal logic. Yes, this technology is amazing. Also yes, the hype is excruciating.
 
-## Try it here [Jupyter notebook]() for a more thorough explanation of this project.
+## Try it here [Jupyter notebook](https://github.com/s-cafferty-nlp/SimpsonsGPT/blob/main/notebooks/SimpsonsGPT_Generate.ipynb) for a more thorough explanation of this project.
 
 
 ### SAMPLE OUTPUT: 
